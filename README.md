@@ -1,5 +1,6 @@
-# Cybersecurity Portfolio
+![Cybersecurity Portfolio Banner](GitHub%20cover%20banner%20(1).png)
 
+# Cybersecurity Portfolio
 This repository contains my hands-on Linux, Cybersecurity, and DevSecOps lab practice.
 # Linux & Cybersecurity Labs Portfolio
 
